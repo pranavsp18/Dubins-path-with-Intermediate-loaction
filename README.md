@@ -32,7 +32,7 @@ git clone https://github.com/kaarthiksundar/Dubins.jl.git
 - Step 3: Clone this repository into `Dubins.jl/src` folder using.
 
 ```bash
-git clone https://github.com/pranavsp18/Dubins-Interval-Problem-DIP-.git
+git clone https://github.com/pranavsp18/Dubins-path-with-Intermediate-loaction.git
 ```
 
 Step 3: Run `Dubins_path_with_intermediate_location.jl` to compute Dubins shortest path.
